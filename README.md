@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ByrenKingson (Dominic Saavedra)
+- 👋 Hi, I’m @ByronGD (Dominic Saavedra)
 - 👀 I’m interested in Building small functional applications
 - 🌱 I’m currently learning Dev-ops in reguards to web development
 - 💞️ I’m looking to collaborate on videogame emulation projects
